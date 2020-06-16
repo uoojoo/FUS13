@@ -17,4 +17,6 @@ mkdir fus13(폴더명)
 *rmdir: 비어있는 파일 지울 때
 *:q 끝내기
 *:wq 저장하고 끝내기
-*ㅗㅎ
+
+
+[README](../README.md)
