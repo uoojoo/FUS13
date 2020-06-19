@@ -1,3 +1,20 @@
 body{
-  background-color: yellow;
+  background-color: #fff;
+  color: #181818;
+}
+
+.is-open-menu{
+  border: 0;
+  background: transparent;
+  padding: 0;
+}
+.is-open-menu .ir{
+  display: block;
+  width: 26px;
+  height: 22px;
+  background-image: url("./../images/navigation-button.gif");
+  background-repeat: no-repeat;
+  padding: 10px;
+  cursor: pointer;
+  background-position: 50% 50%;
 }
